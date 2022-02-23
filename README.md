@@ -3,7 +3,8 @@
 This repository contains the following technical documents:
 
 1. Imputation results using MICE
-2. Data cleaning and data clustering
+2. Data cleaning 
+3. Data clustering
 4. Decision Tree
 5. Multiple regression analysis 
 
