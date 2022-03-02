@@ -29,10 +29,8 @@ The tentative stages of this project is to retrieve initial results to answer th
 
 (c) Can we predict which natural disaster will become more common or likely to occur? 
   - Decision tree, Logistic Regression, K-Nearest Neighbours will be tested out 
-  - It seems like we may not be able to predict which one is more common exactly rather we can predict which natural disasters will have more damaging effects
-  - This is because our previous data clustering and analysis kind of answers this question since we can see trends of natural disasters 
-  - It would be better to be able to predict the damages (deaths or total damages) 
+  - Decision tree - a classification tree will be used and the data will be split into a test and training set 
 
-Keeping in mind that we need to choose a dependent variable, it was decided that since we have shifted to predicting damages then total deaths would be the main focus and our dependent variable. This is because previous research articles and journals conducted by other data scientists already cover economic effects such as building damages and other economic factors thus it would be more interesting to focus on how humans will be effected physically and or mentally rather than economically. 
+Keeping in mind that we need to choose a dependent variable, it was decided that we should be able to still predict natural disasters based on regions/countries. Those variables are currently character variables and will need to be converted into factor variables in order to complete our proposed classification models. 
 
-Furthermore, this will be a classification problem. We will be using decision trees, KNN, and logisitic regression to understand and classify the most important factors to use when predicting deaths caused by natural disasters. The three methods will be compared based on their accuracies.
+Furthermore, this will be a classification problem. We will be using decision trees, KNN, and logisitic regression to understand and classify the most important factors to use when predicting natural disasters. The three methods will be compared based on their accuracies.
