@@ -35,4 +35,4 @@ The tentative stages of this project is to retrieve initial results to answer th
 
 Keeping in mind that we need to choose a dependent variable, it was decided that since we have shifted to predicting damages then total deaths would be the main focus and our dependent variable. This is because previous research articles and journals conducted by other data scientists already cover economic effects such as building damages and other economic factors thus it would be more interesting to focus on how humans will be effected physically and or mentally rather than economically. 
 
-Furthermore, this will be a classification problem. We will be using decision trees, KNN, and logisitic regression to understand and classify the most important factors to use when predicting deaths caused by natural disasters. 
+Furthermore, this will be a classification problem. We will be using decision trees, KNN, and logisitic regression to understand and classify the most important factors to use when predicting deaths caused by natural disasters. The three methods will be compared based on their accuracies.
