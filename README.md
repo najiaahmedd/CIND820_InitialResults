@@ -2,10 +2,9 @@
 
 This repository contains the following technical documents:
 
-1. Imputation results using MICE
-2. Data cleaning 
-3. Data clustering
-4. Decision Tree, Logistic Regression, K-Nearest Neighbours 
+1. Data preparation - Imputation results using MICE and cleaning the data table to remove any columns / attributes that are not relevant or would cause issues during the modelling 
+3. Visualizations - Data clustering
+4. Data modelling - Decision Tree, Logistic Regression, K-Nearest Neighbours 
 
 These technical documents will provide a first look into how the data is peforming and if there are any issues requiring any other further steps as we move forward through the research project. 
 
